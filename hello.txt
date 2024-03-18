@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+1 line
+2 line
+=======
+1 line
+Second line
+>>>>>>> 6aa4720 (First commit from new_branch)
